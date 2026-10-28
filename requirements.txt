@@ -2,4 +2,3 @@ streamlit
 tensorflow==2.16.2
 numpy<2
 Pillow
-humanize==4.12.3
